@@ -1,0 +1,49 @@
+Problem Statements : Loop Control Structures
+1. Write a Python program to print all natural numbers from 1 to n. - using
+while loop
+2. Write a Python program to print all natural numbers in reverse (from n to
+1). - using while loop
+3. Write a Python program to print all alphabets from a to z. - using while loop
+4. Write a Python program to print all even numbers between 1 to 100. -
+using while loop
+5. Write a Python program to print all odd number between 1 to 100.
+6. Write a Python program to find sum of all natural numbers between 1 to n.
+7. Write a Python program to find sum of all even numbers between 1 to n.
+8.
+9. Write a Python program to find sum of all odd numbers between 1 to n.
+10. Write a Python program to print multiplication table of any number. Take
+user input.
+11. Write a Python program to count number of digits in a number.
+12. Write a Python program to find first and last digit of a number.
+13. Write a Python program to find sum of first and last digit of a number.
+14. Write a Python program to swap first and last digits of a number.
+15. Write a Python program to calculate sum of digits of a number.
+16. Write a Python program to calculate product of digits of a number.
+17. Write a Python program to enter a number and print its reverse.
+18. Write a Python program to check whether a number is palindrome or not.
+19. Write a Python program to find frequency of each digit in a given integer.
+20. Write a Python program to enter a digit and print it in words.
+21. Write a Python program to find power of a number using for loop.
+22. Write a Python program to calculate factorial of a number.
+23. Write a Python program to find HCF (GCD) of two numbers.
+24. Write a Python program to find LCM of two numbers.
+25. Write a Python program to check whether a number is Prime number or
+not.
+26. Write a Python program to print all Prime numbers between 1 to n.
+27. Write a Python program to find sum of all prime numbers between 1 to n.
+28. Write a Python program to check whether a number is Armstrong number
+or not.
+29. Write a Python program to print all Armstrong numbers between 1 to n.
+30. Write a Python program to print Fibonacci series up to n terms.
+31. Write a Python program to print the given star patterns.
+*
+* *
+* * *
+* * * *
+* * * * *
+32. Write a Python program to print the given number patterns.
+1
+2 2
+3 3 3
+4 4 4 4
+5 5 5 5 5
